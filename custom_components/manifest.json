@@ -1,0 +1,9 @@
+{
+  "domain": "neocontrol",
+  "name": "Neocontrol",
+  "documentation": "https://github.com/bgbraga/homeassistant-neocontrol/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": ["@bgbraga"],
+  "requirements": [],
+  "version": "0.0.1"
+}
